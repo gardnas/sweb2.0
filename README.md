@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Spencer's website
+This can be found at:
+
+
+## More about how this was made here:
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
