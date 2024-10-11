@@ -10,22 +10,28 @@ export default function Projects() {
           {projectsData.map((project, index) => (
             <div className="project-container" key={index}>
               <h4>
-                <img src={project.imagePath} alt={`${project.title} screenshot`} className="img-fluid" loading="lazy"/> 
-                <br></br>
+                <img
+                  src={`${process.env.PUBLIC_URL}${project.imagePath}`}
+                  alt={`${project.title} screenshot`}
+                  className="img-fluid"
+                  loading="lazy"
+                />
+                <br />
                 {project.title}
                 {project.link && (
-                  <a href={project.link} target="_blank" rel="noopener noreferrer" >
+                  <a href={project.link} target="_blank" rel="noopener noreferrer">
                     <i className="fa fa-link github-link"></i>
                   </a>
                 )}
                 {project.githubLink && (
-                  <a href={project.githubLink} target="_blank" rel="noopener noreferrer" >
+                  <a href={project.githubLink} target="_blank" rel="noopener noreferrer">
                     <i className="fa fa-github github-link"></i>
-                  </a> 
+                  </a>
                 )}
               </h4>
-              <h5> <i>{project.subtitle}</i>  </h5>
-              {/* mapping the technolgies from an array in the json */}
+              <h5>
+                <i>{project.subtitle}</i>
+              </h5>
               <div className="tools">
                 {Array.isArray(project.technologies) ? (
                   project.technologies.map((tech, techIndex) => (
@@ -37,7 +43,6 @@ export default function Projects() {
                   <p>No technologies listed.</p>
                 )}
               </div>
-              
               <p className="project-description">{project.description}</p>
             </div>
           ))}
