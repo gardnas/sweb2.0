@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import ProfileCard from "./ProfileCard";
 import Experience from "./Experience";
 import Projects from "./Projects";
-import Footer from "./Footer";
+import Contact from "./Contact";
 
 export default function About() {
   const [mobileView, setMobileView] = useState(false);
@@ -60,7 +60,7 @@ export default function About() {
             {aboutContent}
             <Experience />
             <Projects />
-            <Footer />
+            <Contact />
           </div>
         </div>
       </div>
