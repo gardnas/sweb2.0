@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Undergraduate Informatics Tutor",
+      "organization": "University of Washington Information School",
+      "dates": "September 2024 - Present",
+      "description": "As an undergraduate programming tutor, I support students in various programming courses such as INFO 201(Data Science), INFO 330(Databases and Data Modeling), INFO 340(Client-Side Development), CSE 12X (Intro to computer programming series (Java)), CSE 160(Data Programming(Python)), CSE 163(Intermediate Data Programming(Python)), CSE 373 (Data Structures and Algorithims)."
+    },
+    {
+      "title": "Full-Stack Software Developer",
+      "organization": "Eat Together",
+      "dates": "January 2024 - Present",
+      "description": "As a full-stack developer for the app Eat Together, an app that brings college students togheter through food meetups, I contributed both the front and back end of the app using React Native and Firebase. One of my main projects was integrating and designing a Would You Rather? game into the app. My contributions have led to over 300 users and 150 meetups so far. See my projects below for more details!"
+    },
+    {
+      "title": "Web Developer",
+      "organization": "Web Imapct UW",
+      "dates": "September 2023 - June 2024",
+      "description": "As a web devleoper for Web Impact UW, I developed a website for Seattle Community Fridge, a Seattle organization that provides food access through various community fridge locations."
+    },
+    {
+      "title": "Software Engineer Apprentice",
+      "organization": "GrayMeta",
+      "dates": "June 2023 - September 2023",
+      "description": "As a software enginnering apprentice at GrayMeta, I collaborated with senior engineers on cloud services and AI-driven media search functionalities, contributing to the enhancement of the company’s AI/ML-backed media analysis platform."
+    }
+  ]
+  
