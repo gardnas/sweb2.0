@@ -7,17 +7,7 @@
       "imagePath": "/img/travel-planner.png",
       "link": "https://travelplanner-8290b.web.app/signin",
       "githubLink": "https://github.com/info340-su24/project-gardnas"
-    },
-    {
-      "title": "Eat Together App",
-      "subtitle": "Full-stack developer",
-      "technologies": ["React Native", "JavaScript", "Figma"],
-      "description": "Eat Together is an app that focuses on bringing college students together through food realted meetups. It aims to solve the difficulty for new or existing college students to meet each other through food and culture. As a developer on the Eat Together team, one of my main projects was developing and designing a Would You Rather? game to be integrated into the app for users to play at meals.",
-      "imagePath": "/img/eat-together.png",
-      "link": "https://www.eat-together.tech/",
-      "githubLink": "https://github.com/eat-together-team/eat-together"
-    },
-    {
+    },{
       "title": "Husky Maps",
       "subtitle": "CSE 373 (Data Structures and Algorithims) & Personal Project",
       "technologies": ["Java"],
