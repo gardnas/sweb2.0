@@ -20,9 +20,7 @@ export default function Contact() {
 
   return (
     <section id="contact">
-      {/* Header outside of the card */}
       <h3 className="contact-title">Contact</h3>
-      {/* Card-like content section */}
       <div className="contact-card">
         <div className="copyright">
           <p className="send-message">Thanks for checking out my website! 🙂</p>
