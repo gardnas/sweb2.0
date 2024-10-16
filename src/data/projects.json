@@ -24,8 +24,15 @@
       "imagePath": "/img/heat-map.jpeg",
       "link": "https://docs.google.com/presentation/d/1Q2suyvCAg1ECfc4RdX_DcNHWTe4-tn0R-7Bx_EzcHjM/edit?usp=sharing",
       "githubLink": "https://github.com/gardnas/NBA-shot-data-analysis"
-    },
-    {
+    },{
+      "title": "TravelAI",
+      "subtitle": "Hackathon Project",
+      "technologies": ["React", "JavaScript", "Perplexity LLM", "Amadeus Flight API" ,"OAuth", "SQL"],
+      "description": "TravelAI is a smart app that creates personalized itineraries for wellness trips. Users simply input their preferences, such as preferred destination, the activities they are interested in, and how long they plan to stay. The app uses AI to curate a perfect itinerary tailored to the user’s wellness needs, including accommodations, activities, local wellness spots, and even meal suggestions that promote well-being. It takes the stress out of planning, allowing users to focus on enjoying their rejuvenation journey.",
+      "imagePath": "/img/heat-map.jpeg",
+      "link": "https://docs.google.com/presentation/d/1Q2suyvCAg1ECfc4RdX_DcNHWTe4-tn0R-7Bx_EzcHjM/edit?usp=sharing",
+      "githubLink": "https://github.co"
+    },{
       "title": "Terrain Generator Simulation",
       "subtitle": "Personal Project",
       "technologies": ["Java", "Processing"],
