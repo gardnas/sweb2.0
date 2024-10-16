@@ -366,6 +366,10 @@ a:hover {
   margin: 0 2.5px;
   padding-left: 10px;
   padding-top: 5px;
+  transition: transform 0.3s, color 0.1s;
+}
+.github-link:hover{
+  transform: scale(1.1);
 }
 
 .img-fluid{
