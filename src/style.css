@@ -7,8 +7,8 @@
   /* --hover-color: #ff9900; */
   --hover-color: #b713e0;
   --text-underline: #b713e0; /* Underline color change from #ff9900;*/
-  --profile-card-padding-top: 8.5%; /* Top padding for profile card */
-  --content-padding-top: 7vh; /* Top padding for content */
+  --profile-card-padding-top: 10.0%; /* Top padding for profile card from 8.5 */
+  --content-padding-top: 7.5vh; /* Top padding for content from 7*/
   --column-gap: 0.1%; /* Spacing between columns (converted to percentage) */
   --left-column-width: 35.5%; /* Left column width */
   --photo-size: 80%; /* Responsive photo size */
